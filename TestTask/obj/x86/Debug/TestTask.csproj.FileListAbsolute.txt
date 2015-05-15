@@ -1,0 +1,9 @@
+C:\Users\Anton\AppData\Local\Temporary Projects\TestTask\bin\Debug\TestTask.exe
+C:\Users\Anton\AppData\Local\Temporary Projects\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Anton\AppData\Local\Temporary Projects\TestTask\obj\x86\Debug\TestTask.exe
+C:\Users\Anton\AppData\Local\Temporary Projects\TestTask\obj\x86\Debug\TestTask.pdb
+C:\Users\Anton\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.exe
+C:\Users\Anton\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.pdb
+C:\Users\Anton\documents\visual studio 2010\Projects\TestTask\TestTask\bin\Debug\TestTask.exe
+C:\Users\Anton\documents\visual studio 2010\Projects\TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\Users\Anton\documents\visual studio 2010\Projects\TestTask\TestTask\obj\x86\Debug\TestTask.csprojResolveAssemblyReference.cache
